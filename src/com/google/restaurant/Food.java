@@ -29,6 +29,6 @@ public class Food {
 	
 	String menu;
 	int price;
-	int num;
 	int total;
+	int count;
 }
