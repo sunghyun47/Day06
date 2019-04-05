@@ -2,7 +2,7 @@ package com.google.restaurant;
 
 import java.util.Scanner;
 
-public class MenuController {
+public class MenuController { //메뉴선택
 
 	public void start() { 	// start 메서드 생성
 

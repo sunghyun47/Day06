@@ -1,6 +1,6 @@
 package com.google.restaurant;
 
-public class Menu {
+public class Menu { //음식정보 저장
 
 	String name;
 	int price;

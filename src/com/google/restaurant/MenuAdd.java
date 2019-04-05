@@ -2,7 +2,7 @@ package com.google.restaurant;
 
 import java.util.Scanner;
 
-public class MenuAdd {
+public class MenuAdd { //음식등록
 
 	public Menu [] add() {
 		Scanner sc = new Scanner(System.in);
